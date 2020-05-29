@@ -5,7 +5,6 @@ import java.awt.Font;
 import java.awt.Frame;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
 import javax.swing.border.BevelBorder;
 
 public class Button extends javax.swing.JFrame implements ActionListener {
@@ -18,7 +17,6 @@ private JButton jButton3;
 private JButton jButton4;
 private JPanel jPanel2;
 private JPanel ButtonsPanel;
-
 private JLabel jLab1;
 
 public static void main(String[] args) {
