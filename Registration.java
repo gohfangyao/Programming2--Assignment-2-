@@ -66,7 +66,7 @@ class MyFrame
 
       title = new JLabel("Registration Form"); 
       title.setFont(new Font("Arial", Font.PLAIN, 30)); 
-      title.setSize(300, 30); 
+      title.setSize(300, 40); 
       title.setLocation(300, 30); 
       c.add(title); 
 
